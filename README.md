@@ -5,7 +5,7 @@
 
 
 You can find more information (and the
-[Demo video](https://nobaadel.github.io/Signer/)) on the YouTube.
+[Demo video](https://youtu.be/bsvFSfTh9Oc)) on the YouTube.
 
 
 ### Installation
